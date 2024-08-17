@@ -1,0 +1,16 @@
+ID	Activity Description	Duration	Predecessor
+1	Start of project	0
+2	Indenting of materials	1	1
+3	Receiving of materials	2	2
+4	Cutting	3	3
+5	Fitting	4	4
+6	Inspection(recurring)	1 hr	2
+7	Welding	6	5
+8	Final fitting	3	4,6
+9	Final welding	5	7
+10	Quality Checking	4	8
+11	Dispatch	3	9
+12	Closure	1	10
+13	End of project	0	11
+
+
