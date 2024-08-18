@@ -1,6 +1,7 @@
 # MS-Project_ClassWork
 
-**GitHub Link:** https://github.com/toarnabtrainer/MS-Project_ClassWork or https://tinyurl.com/3waatuev
+* **GitHub Link:** https://github.com/toarnabtrainer/MS-Project_ClassWork or https://tinyurl.com/3waatuev
+* **MS-Teams Link:** https://tinyurl.com/2s3yxjnr
 
 **PERT - Program Evaluation Review Technique**<br>
 **Three-point analysis:**<br>
