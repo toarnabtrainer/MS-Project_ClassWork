@@ -13,9 +13,10 @@
 **Standard Deviation = (P - O) / 6**<br>
 **Variance = Standard Deviation ^ 2**<br>
 
-**Note on BCWS, BCWP and EVM Variables available in this link:** https://tinyurl.com/2s3ctfy2 or <br>
-https://acqnotes.com/acqnote/tasks/budgeted-cost-of-work-scheduled#:~:text=BCWS%20%3D%20Budgeted%20Cost%20of%20Work,Actual%20Cost%20of%20Work%20Performed <br>
-and https://tinyurl.com/3zbpeapd or <br>
+**Note on BCWS, BCWP and EVM Variables available in this link:** <br>
+* **https://tinyurl.com/2s3ctfy2** or <br>
+https://acqnotes.com/acqnote/tasks/budgeted-cost-of-work-scheduled#:~:text=BCWS%20%3D%20Budgeted%20Cost%20of%20Work,Actual%20Cost%20of%20Work%20Performed and <br>
+* **https://tinyurl.com/3zbpeapd** or <br>
 https://www.pinnaclemanagement.com/blog/earned-value-management-an-introduction#:~:text=Earned%20Value%20Management%20(EVM)%20is,extent%2C%20schedule)%20at%20completion
 
 * **Project 2021 Beginner Tutorial (2 Hours 27 Minutes):** https://www.youtube.com/watch?v=l3ypMRwW9tc
