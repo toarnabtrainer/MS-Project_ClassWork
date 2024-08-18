@@ -45,6 +45,13 @@ Based on the problem given in the file "Introduction to Project Management.pptx"
 *	Replace an over allocated resource with an under allocated one or remove a resource. <br>
 *	Adjust or contour the amount of work assigned to a resource. <br>
 
+<hr>
+
+## Recalculation of the Duration of a Task of types Fixed Units / Fixed Duration / Fixed Work / Effort Driven
+
+![image](https://github.com/user-attachments/assets/f3b26bca-01ff-469c-a77c-cc931e797930)
+
+<hr>
 
 **MS-Office/O365 Reference Tutorial Links -**<br>
 * **MS-Office 2007:** https://edu.gcfglobal.org/en/topics/office2007/
