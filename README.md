@@ -49,7 +49,7 @@ Based on the problem given in the file "Introduction to Project Management.pptx"
 
 ## Recalculation of the Duration of a Task of types Fixed Units / Fixed Duration / Fixed Work / Effort Driven
 
-![image](https://github.com/user-attachments/assets/f3b26bca-01ff-469c-a77c-cc931e797930)
+![image](https://github.com/user-attachments/assets/1ce8b96c-1376-428b-9f56-4f71f5bb2853)
 
 <hr>
 
