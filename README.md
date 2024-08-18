@@ -50,7 +50,16 @@ Based on the problem given in the file "Introduction to Project Management.pptx"
 
 ![image](https://github.com/user-attachments/assets/1ce8b96c-1376-428b-9f56-4f71f5bb2853)
 
-<hr> 
+<hr>
+
+**MS-Project Tips and Tricks:**
+* In MS-Project, prorated means that the fixed cost is distributed evenly over the duration of the task. When you track progress, the project incurs the cost of the task at the rate at which the task is completed. For example, if a task has a $100 fixed cost and is 75 percent complete, the project has incurred $75 against that task1.
+* In MS Project, we have e-durations (edays, ewks, and emons) and we have the standard days, wks, and mons. edays are understood to be 24 hrs/day with no down time.  
+* In Manually scheduled mode in the duration column we can write "Ask your coordinator" for future decision. But not possible in Auto Scheduled mode.
+* 
+
+
+<hr>
 
 **MS-Project and Project Management Tutorial Links:**
 * **Project 2021 Beginner Tutorial (2 Hours 27 Minutes):** https://www.youtube.com/watch?v=l3ypMRwW9tc
