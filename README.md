@@ -36,6 +36,16 @@ Based on the problem given in the file "Introduction to Project Management.pptx"
 * My_PERT_Variance (Number8) => (([Number3]-[Number1])/6)^2<br>
 * My_PERT_StdDev (Number9) => Sqr([Number8])<br>
 
+**These are most followed ways to do resource levelling:** <br>
+*	Reduce a task’s duration. <br>
+*	Delay a Task. <br>
+*	Split a Task. <br>
+*	Adjust the resources assigned to a Task. <br>
+*	Assign more resources to a Task. <br>
+*	Replace an over allocated resource with an under allocated one or remove a resource. <br>
+*	Adjust or contour the amount of work assigned to a resource. <br>
+
+
 **MS-Office/O365 Reference Tutorial Links -**<br>
 * **MS-Office 2007:** https://edu.gcfglobal.org/en/topics/office2007/
 * **MS-Office 2010:** https://edu.gcfglobal.org/en/topics/office2010/
