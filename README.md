@@ -61,12 +61,20 @@ Based on the problem given in the file "Introduction to Project Management.pptx"
 
 <hr>
 
+**MS-Project Trial Version Download Link:**<br>
+https://www.microsoft.com/en-in/microsoft-365/project/compare-microsoft-project-management-software?tab=1&ef_id=_k_Cj0KCQjwy4KqBhD0ARIsAEbCt6gzuZ4E9lm8PhwF34hf5P9GasIDwr5TYhV5oyulunnQVtTydSucYjYaAhnMEALw_wcB_k_&OCID=AIDcmmapr1szny_SEM__k_Cj0KCQjwy4KqBhD0ARIsAEbCt6gzuZ4E9lm8PhwF34hf5P9GasIDwr5TYhV5oyulunnQVtTydSucYjYaAhnMEALw_wcB_k_&gad_source=1&gclid=Cj0KCQjwy4KqBhD0ARIsAEbCt6gzuZ4E9lm8PhwF34hf5P9GasIDwr5TYhV5oyulunnQVtTydSucYjYaAhnMEALw_wcB
+
+<hr>
+
 **MS-Project and Project Management Tutorial Links:**
 * **Project 2021 Beginner Tutorial (2 Hours 27 Minutes):** https://www.youtube.com/watch?v=l3ypMRwW9tc
 * **Project 2021 Advanced Tutorial (3 Hours 11 inutes):** https://www.youtube.com/watch?v=NnVLgvvkBo8
 * **Project 2019 Advanced Tutorial (2 Hours 10 inutes):** https://www.youtube.com/watch?v=xc38Om2HtBA
 * **MS-Project 2016 Step by Step Tutorial PDF:** https://tinyurl.com/bdfauhz8
 * **MS-Project TutorialsPoint Tutorial PDF:** https://tinyurl.com/5zm6np2t
+* **Text Tutorial-1:** https://www.guru99.com/initiation-phase-project-management-life-cycle.html
+* **Text Tutorial-2:** https://www.knowledgehut.com/tutorials/project-management
+* **Text Tutorial-3:** https://www.projectengineer.net/tutorials/project-management/
 
 <hr>
 
