@@ -3,6 +3,10 @@
 * **GitHub Link:** https://github.com/toarnabtrainer/MS-Project_ClassWork or https://tinyurl.com/3waatuev
 * **MS-Teams Link:** https://tinyurl.com/2s3yxjnr
 
+<hr>
+
+* **Microsoft Project Download, Installation and Activation Free:** https://www.youtube.com/watch?v=lUMPCYinCpM
+
 <hr> 
 
 **PERT - Program Evaluation Review Technique**<br>
